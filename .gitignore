@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# build output (Vercel rebuilds this — never commit it)
+dist
+.vite
+
+# local / editor
+.DS_Store
+*.log
+.env
+.env.local
+.vercel
